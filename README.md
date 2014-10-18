@@ -1,4 +1,6 @@
 hello-world
 ===========
 
-first repository in github for me.)
+Hi Humans!
+
+Zhangali here, I'd like to become a java programmer. 
